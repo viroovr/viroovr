@@ -1,8 +1,19 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=100&section=header&text=&fontSize=0" width="100%"/>
+
 # SEO HYUN WON
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fviroovr%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
-![Hyunwon's GitHub stats](https://github-readme-stats.vercel.app/api?username=viroovr&show_icons=true&theme=radical)
+<a href="https://github.com/viroovr/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=viroovr&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>    
+<a href="https://github.com/viroovr/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=viroovr&show_icons=true&theme=material-palenight&hide_border=true&bg_color=20232a&icon_color=58A6FF&text_color=fff&title_color=58A6FF&count_private=true" width=56% />
+</a>
+<a href="https://github.com/viroovr/github-readme-activity-graph">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=viroovr&theme=react-dark&bg_color=20232a&hide_border=true&line=58A6FF&color=58A6FF" width=94%/>
+</a>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=svhost1466)](https://solved.ac/svhost1466/)
 
 # 💪Skills
@@ -26,3 +37,5 @@
 
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tjgusdnjs789@gmail.com)](mailto:tjgusdnjs789@gmail.com)
 [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:tjgusdnjs789@naver.com)](mailto:tjgusdnjs789@naver.com)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:E34C26,10:DA5B0B,30:C6538C,75:3572A5,100:A371F7&height=40&section=footer&text=&fontSize=0" width="100%"/>
